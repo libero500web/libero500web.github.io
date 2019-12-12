@@ -9,7 +9,7 @@ graphs: info_rt_graphs.jpg
 
 # Info rete teleriscaldamento
 
-Tramite la funzione Info rete teleriscaldamento sarà possibile visualizzare **informazioni riguardanti l’intera rete di teleriscaldamento**. Nella prima fascia verranno visualizzate le informazioni riguardanti il numero totale di utenze presenti in LiberoWeb e la potenza totale installata.
+Tramite la funzione **Info rete teleriscaldamento** sarà possibile visualizzare informazioni riguardanti l’intera rete di teleriscaldamento. Nella prima fascia verranno visualizzate le informazioni riguardanti il numero totale di utenze presenti in LiberoWeb e la potenza totale installata.
 
 ![Informazioni riguardanti il numero totale di utenze e la potenza totale installata](/assets/images/{{page.details}})
 {: .py-5 }

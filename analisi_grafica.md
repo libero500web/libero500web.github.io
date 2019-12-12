@@ -11,7 +11,7 @@ table: ag_table.jpg
 
 # Analisi grafica
 
-Tramite la funzione *Analisi grafica* si potranno visualizzare dei **grafici per singola utenza relativi alle variabili impostate**.
+Tramite la funzione **Analisi grafica** si potranno visualizzare dei **grafici per singola utenza relativi alle variabili impostate**.
 Per accedere alla funzionalità bisognerà prima selezionare l’utenza desiderata dall’elenco delle utenze abilitate per l’utente loggato:
 
 ![Selezione dell'utenza desiderata](/assets/images/{{page.select}})

@@ -25,7 +25,7 @@ Tramite la funzione *Mostra filtri* l’utente potrà **filtrare le utenze visua
 {: .py-5 }
 
 Cliccando sul nome dell’utenza oppure sul marker della mappa si aprirà un **pannello laterale** nel quale saranno visualizzati gli ultimi valori relativi alle variabile impostate in visualizzazione.
-Dal pannello laterale sarà poi possibile accedere direttamente alle funzioni *Analisi grafica*, *Analisi consumi* o *Fatture* per l’utenza selezionata.
+Dal pannello laterale sarà poi possibile accedere direttamente alle funzioni **Analisi grafica**, **Analisi consumi** o **Fatture** per l’utenza selezionata.
 
 ![Pannello con i valori delle variabili](/assets/images/{{page.panel}})
 {: .py-5 }
@@ -40,7 +40,7 @@ Posizionando il cursore del mouse sopra i marker informativi si potranno **visua
 ![Il cursore posizionato sopra un marker rivela i dati relativi alle variabili dell'utenza](/assets/images/{{page.route}})
 {: .py-5 }
 
-Se sono presenti delle variabili informative sulla mappa verrà visualizzato anche un apposito bottone Info variabili per accedere ad un **pannello riepilogativo** dove sono elencate tutte le variabili:
+Se sono presenti delle variabili informative sulla mappa verrà visualizzato anche un apposito bottone **Info variabili** per accedere ad un **pannello riepilogativo** dove sono elencate tutte le variabili:
 
 ![Il bottone info ed il relativo pannello di riepilogo](/assets/images/{{page.summary}})
 {: .py-5 }
