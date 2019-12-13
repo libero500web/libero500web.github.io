@@ -4,6 +4,7 @@ title: Licenza
 permalink: /amministrazione/centrale/licenza
 nav_order: 2
 parent: Centrale
+grand_parent: Amministrazione
 license: amm_cen_license.jpg
 ---
 

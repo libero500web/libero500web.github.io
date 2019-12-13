@@ -4,7 +4,7 @@ title: Grafici centrale
 #permalink: /amministrazione/centrale/grafici-centrale
 nav_order: 3
 parent: Centrale
-
+grand_parent: Amministrazione
 config: amm_cen_graph_config.jpg
 graph: amm_cen_graph.jpg
 ---

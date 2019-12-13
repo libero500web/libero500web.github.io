@@ -4,6 +4,7 @@ title: Importa fatture
 permalink: /amministrazione/gestione/importa-fatture
 nav_order: 3
 parent: Gestione
+grand_parent: Amministrazione
 import: ges_if.jpg
 pattern: ges_if_pattern.jpg
 fromFile: ges_if_fromfile.jpg

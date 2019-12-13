@@ -4,6 +4,7 @@ title: Fatture
 permalink: /amministrazione/impostazioni/fatture
 nav_order: 6
 parent: Impostazioni
+grand_parent: Amministrazione
 bills: imp_bills.jpg
 ---
 

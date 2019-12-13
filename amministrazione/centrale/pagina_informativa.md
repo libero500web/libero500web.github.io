@@ -4,6 +4,7 @@ title: Pagina informativa
 permalink: /amministrazione/centrale/pagina-informativa
 nav_order: 5
 parent: Centrale
+grand_parent: Amministrazione
 info: amm_cen_informativa.jpg
 ---
 

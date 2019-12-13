@@ -4,6 +4,7 @@ title: Stato
 permalink: /amministrazione/centrale/stato
 nav_order: 1
 parent: Centrale
+grand_parent: Amministrazione
 status: amm_cen_status.jpg
 ---
 

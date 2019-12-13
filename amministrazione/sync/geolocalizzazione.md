@@ -4,6 +4,7 @@ title: Geolocalizzazione
 permalink: /amministrazione/sync/geolocalizzazione
 nav_order: 3
 parent: Sync
+grand_parent: Amministrazione
 status: amm_sync_geo_status.jpg
 noCity: amm_sync_geo_nocity.jpg
 noGeo: amm_sync_geo_nogeo.jpg

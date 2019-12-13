@@ -4,6 +4,7 @@ title: Gruppi
 permalink: /amministrazione/gestione/gruppi
 nav_order: 2
 parent: Gestione
+grand_parent: Amministrazione
 groups: ges_groups.jpg
 ---
 

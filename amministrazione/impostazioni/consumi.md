@@ -4,6 +4,7 @@ title: Consumi
 permalink: /amministrazione/impostazioni/consumi
 nav_order: 5
 parent: Impostazioni
+grand_parent: Amministrazione
 consumption: imp_consumption.jpg
 ---
 

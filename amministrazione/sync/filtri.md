@@ -4,6 +4,7 @@ title: Filtri
 permalink: /amministrazione/sync/filtri
 nav_order: 1
 parent: Sync
+grand_parent: Amministrazione
 filters: amm_sync_filters.jpg
 filtersEdit: amm_sync_filters_edit.jpg
 nodes: amm_sync_nodes.jpg

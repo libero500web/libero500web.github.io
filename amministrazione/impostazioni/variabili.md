@@ -4,6 +4,7 @@ title: Variabili
 permalink: /amministrazione/impostazioni/variabili
 nav_order: 3
 parent: Impostazioni
+grand_parent: Amministrazione
 vars: imp_variables_overview.jpg
 ---
 

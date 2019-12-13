@@ -4,6 +4,7 @@ title: Etichette device
 permalink: /amministrazione/impostazioni/etichette-device
 nav_order: 2
 parent: Impostazioni
+grand_parent: Amministrazione
 select: imp_devicelabel_select_supervisor.jpg
 edit: imp_devicelabel_editandsave.jpg
 ---

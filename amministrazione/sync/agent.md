@@ -4,6 +4,7 @@ title: Agent
 permalink: /amministrazione/sync/agent
 nav_order: 5
 parent: Sync
+grand_parent: Amministrazione
 detail: sync_agent_detail.jpg
 config: sync_agent_config.jpg
 ---

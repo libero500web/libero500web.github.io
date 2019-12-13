@@ -4,6 +4,7 @@ title: Connessione
 permalink: /amministrazione/impostazioni/connessione
 nav_order: 8
 parent: Impostazioni
+grand_parent: Amministrazione
 notifications: imp_connection_notification.jpg
 config: imp_connection_configuration.jpg
 ---

@@ -4,6 +4,7 @@ title: Anagrafica
 permalink: /amministrazione/impostazioni/anagrafica
 nav_order: 1
 parent: Impostazioni
+grand_parent: Amministrazione
 graphPages: ges_ana_graphpages.jpg
 mapFields: ges_ana_map.jpg
 mapCustomFields: ges_ana_mapcustomfields.jpg

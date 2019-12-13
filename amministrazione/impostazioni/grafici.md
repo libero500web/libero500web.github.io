@@ -4,6 +4,7 @@ title: Grafici
 permalink: /amministrazione/impostazioni/grafici
 nav_order: 4
 parent: Impostazioni
+grand_parent: Amministrazione
 graphs: imp_graphs.jpg
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Impostazioni
+title: Impostazioni centrale
 permalink: /amministrazione/centrale/impostazioni
 nav_order: 4
 parent: Centrale
+grand_parent: Amministrazione
 settings: amm_cen_impostazioni.jpg
 ---
 

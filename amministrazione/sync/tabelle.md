@@ -4,6 +4,7 @@ title: Tabelle
 permalink: /amministrazione/sync/tabelle
 nav_order: 2
 parent: Sync
+grand_parent: Amministrazione
 tables: amm_sync_tables.jpg
 ---
 

@@ -4,6 +4,7 @@ title: Mappa
 permalink: /amministrazione/impostazioni/mappa
 nav_order: 7
 parent: Impostazioni
+grand_parent: Amministrazione
 mapConfig: imp_map_config.jpg
 mapVars: imp_map_variables.jpg
 ---

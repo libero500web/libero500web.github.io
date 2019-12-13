@@ -4,6 +4,7 @@ title: Informazioni
 permalink: /amministrazione/impostazioni/informazioni
 nav_order: 9
 parent: Impostazioni
+grand_parent: Amministrazione
 info: imp_info.jpg
 ---
 

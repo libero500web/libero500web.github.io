@@ -4,6 +4,7 @@ title: Scarica
 permalink: /amministrazione/sync/scarica
 nav_order: 4
 parent: Sync
+grand_parent: Amministrazione
 download: sync_download.jpg
 ---
 
