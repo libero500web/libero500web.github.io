@@ -1,0 +1,220 @@
+{
+  
+  "0": {
+    "title": "",
+    "content": "404 . Page not found :( . The requested page could not be found. .",
+    "url": "http://localhost:4000/404.html",
+    "relUrl": "/404.html"
+  }
+  ,"1": {
+    "title": "Accesso alla piattaforma",
+    "content": "Accesso alla piattaforma . L’accesso alla piattaforma è consentito solo tramite autenticazione: durante il caricamento del portale verrà richiesto di inserire i propri dati utente e, in caso di corretta autenticazione, verrà effettuata la login e mostrata la mappa della rete del teleriscaldamento con le utenze abilitate. . .",
+    "url": "http://localhost:4000/accesso-piattaforma/",
+    "relUrl": "/accesso-piattaforma/"
+  }
+  ,"2": {
+    "title": "Agent",
+    "content": "Agent . Da questa schermata è possibile visualizzare informazioni in merito all’agent e modificarne le configurazioni. . . Il pannello Informations mostra informazioni statistiche riguardanti i dati trasmessi dall’agent di Libero500. . . Il pannello Impostazioni agent consente di visualizzare e modificare le configurazioni dell’agent. Le modifiche effettuate verranno sincronizzate durante il successivo cron. Attenzione: modifiche errate potrebbero causare un blocco della sincronizzazione. .",
+    "url": "http://localhost:4000/amministrazione/sync/agent",
+    "relUrl": "/amministrazione/sync/agent"
+  }
+  ,"3": {
+    "title": "Anagrafica",
+    "content": "Anagrafica . La schermata Anagrafica consente di visualizzare, modificare e personalizzare i campi della scheda anagrafica per le pagine dei grafici e della mappa. . . La tabella Campi anagrafica pagine grafici riporta i campi dell’anagrafica del supervisor da visualizzare nelle pagine Analisi grafica e Analisi consumi. . Facendo click sul bottone Modifica si aprirà la maschera per modificare tali campi anagrafici, tramite cui sarà possibile attivare i campi anagrafici desiderati ed impostare un valore per l’etichetta e l’unità di misura da visualizzare su Liberoweb. . . Il pannello Campi anagrafica mappa elenca i campi dell’anagrafica che vengono mostrati nella schermata Mappa quando viene selezionato un supervisor. Facendo click sul bottone Modifica è possibile ridefinire i campi da mostrare ed il loro ordine. . . Tramite la tabella Personalizzazione campi anagrafica mappa è possibile definire campi dell’anagrafica personalizzati per ogni supervisor. All’interno della tabella vengono mostrate le impostazioni personalizzate inserite ed è possibile modificarle o eliminarle tramite gli appositi bottoni. . Per aggiungere dei campi personalizzati occorre innanzitutto selezionare il supervisor desiderato dall’elenco facendo click su Seleziona un supervisor: . . Una volta effettuata la selezione compariranno rispettivamente l’elenco dei campi componenti l’anagrafica (lato sinistro) e l’elenco dei campi dell’anagrafica visualizzati su mappa (lato destro): . . Selezionare dall’elenco di sinistra i campi che si desidera visualizzare su mappa nell’ordine in cui si desidera mostrarli, questi verranno automaticamente inseriti nell’elenco dei campi visualizzati su mappa. . Per rimuovere campi dalla visualizzazione su mappa è sufficiente fare click sul loro nome all’interno dell’elenco di destra. Una volta effettuate le modifiche desiderate fare click sul bottone Salva per confermare il loro inserimento. .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/anagrafica",
+    "relUrl": "/amministrazione/impostazioni/anagrafica"
+  }
+  ,"4": {
+    "title": "Analisi consumi",
+    "content": "Analisi consumi . Tramite la funzione Analisi consumi si potrà visualizzare il grafico dei consumi relativo alla singola utenza. . Per accedere alla funzionalità bisognerà prima selezionare l’utenza desiderata dall’elenco delle utenze abilitate per l’utente loggato: . . Una volta selezionata l’utenza desiderata, il sistema caricherà la pagina mostrando un pannello di riepilogo dei dati anagrafici dell’utenza, degli allarmi eventualmente attivi e dei consumi: . . Di seguito sarà visualizzato il pannello contenente il grafico e la fascia per impostare la ricerca dove sarà possibile intervenire per modificare il periodo di visualizzazione o la frequenza dei dati. Utilizzando il bottone in alto a destra sarà possibile visualizzare i dati in formato tabellare. . .",
+    "url": "http://localhost:4000/analisi-consumi/",
+    "relUrl": "/analisi-consumi/"
+  }
+  ,"5": {
+    "title": "Analisi grafica",
+    "content": "Analisi grafica . Tramite la funzione Analisi grafica si potranno visualizzare dei grafici per singola utenza relativi alle variabili impostate. Per accedere alla funzionalità bisognerà prima selezionare l’utenza desiderata dall’elenco delle utenze abilitate per l’utente loggato: . . Una volta selezionata l’utenza desiderata, il sistema caricherà la pagina mostrando un pannello di riepilogo dei dati anagrafici dell’utenza, degli allarmi eventualmente attivi e dei consumi: . . Di seguito saranno invece visualizzati i pannelli contenenti i grafici ed il pannello impostazioni di ricerca. I grafici sono impostati nell’area amministrativa e potranno visualizzare fino ad un massimo di due variabili. Sarà possibile intervenire sulla fascia di ricerca per modificare il periodo di visualizzazione o la frequenza dei dati: . . Per ogni grafico sarà possibile cambiare modalità di visualizzazione, da grafico a formato tabellare e viceversa, premendo sul pulsante in alto a destra: . .",
+    "url": "http://localhost:4000/analisi-grafica/",
+    "relUrl": "/analisi-grafica/"
+  }
+  ,"6": {
+    "title": "Analisi tabellare",
+    "content": "Analisi tabellare . Tramite la funzione Analisi tabellare si potranno visualizzare i dati presenti su LiberoWeb in formato tabellare, scegliendo le variabili delle utenze presenti sul sistema e il periodo di interesse: . . Una volta definite le variabili delle utenze da visualizzare si potrà impostare il periodo temporale e la frequenza dei dati e generare la tabella riepilogativa: . . È possibile anche memorizzare la combinazione di variabili impostate effettuando il salvataggio della tabella. Una volta salvata nel sistema è possibile ricaricare le variabili impostate tramite box laterale: . .",
+    "url": "http://localhost:4000/analisi-tabellare/",
+    "relUrl": "/analisi-tabellare/"
+  }
+  ,"7": {
+    "title": "Centrale teleriscaldamento",
+    "content": "Centrale teleriscaldamento . Tramite la funzione Centrale si potranno visualizzare informazioni in merito a variabili e consumi della centrale del teleriscaldamento. . Accedendo alla funzione verranno visualizzate nella parte superiore le informazioni relative all’indirizzo e posizione della centrale ed eventuali allarmi attivi: . . Di seguito saranno invece visualizzati i pannelli contenenti i grafici e la fascia per impostare la ricerca. I grafici sono impostati nell’area amministrativa e potranno visualizzare fino ad un massimo di due variabili. Sarà possibile intervenire sulla fascia di ricerca per modificare il periodo di visualizzazione o la frequenza dei dati. . . Cliccando sul pulsante Analisi consumi si passerà alla visualizzazione dello storico dei consumi della centrale, o in caso sia attivo il modulo Realtime, cliccando sul pulsante Andamento giornaliero si potranno visualizzare i consumi giornalieri della centrale. Per ogni pannello grafico sarà sempre possibile passare alla visualizzazione tabellare o viceversa: . . Nella visualizzazione dell’Andamento giornaliero non sarà presente la fascia di ricerca e verranno visualizzati i dati con frequenza di un’ora della giornata corrente. In caso non fossero disponibili gli ultimi dati, LiberoWeb effettuerà una stima del consumo medio per valorizzare le fasce orarie mancanti. . .",
+    "url": "http://localhost:4000/centrale-teleriscaldamento/",
+    "relUrl": "/centrale-teleriscaldamento/"
+  }
+  ,"8": {
+    "title": "Connessione",
+    "content": "Connessione . La schermata Connessione permette la configurazione del controllo di connessione e l’invio di notifiche a riguardo. . Nella tab Notifiche connessione è possibile impostare la frequenza con cui il sistema effettua una verifica dello stato di connessione con l’agent di Libero500 e specificare uno o più indirizzi email a cui inviare una notifica in caso di mancata connessione. . . Nella tab Impostazioni connessione è possibile effettuare il reset dell’agent per reimpostare la connessione da un nuovo terminare di Libero500. . .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/connessione",
+    "relUrl": "/amministrazione/impostazioni/connessione"
+  }
+  ,"9": {
+    "title": "Consumi",
+    "content": "Consumi . La schermata Consumi permette, tramite l’apposito campo, di impostare il numero di giorni che verranno utilizzati per calcolare la media consumi di ogni singolo supervisor: . .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/consumi",
+    "relUrl": "/amministrazione/impostazioni/consumi"
+  }
+  ,"10": {
+    "title": "Etichette device",
+    "content": "Etichette device . La schermata Etichette device consente l’aggiunta di etichette personalizzate ai dispositivi di specifici supervisor. . Per aggiungere un’etichetta personalizzata selezionare un supervisor dall’elenco che appare facendo click su Seleziona un supervisor: . . Una volta selezionato il supervisor si potrà procedere alla selezione del dispositivo mediante il campo Select a device ed all’impostazione dell’etichetta personalizzata da usare come nome del dispositivo, tramite il campo di testo dedicato: . . Una volta effettuate le modifiche desiderate fare click sul bottone Salva per confermare l’inserimento delle stesse. .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/etichette-device",
+    "relUrl": "/amministrazione/impostazioni/etichette-device"
+  }
+  ,"11": {
+    "title": "Fatture",
+    "content": "Fatture . La schermata Fatture consente di impostare i parametri per l’importazione di documenti di fatturazione. . . Il pannello Pattern file mostra lo schema di nomenclatura da seguire per la corretta importazione dei documenti e la loro attribuzione al relativo supervisor. . Il campo Delimitatore permette di specificare quale carattere di punteggiatura utilizzare per delimitare i diversi valori che compongono il nome del file. . I campi User id, Numero fattura e Data consentono di definire la posizione del relativo valore all’interno del nome del file .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/fatture",
+    "relUrl": "/amministrazione/impostazioni/fatture"
+  }
+  ,"12": {
+    "title": "Filtri",
+    "content": "Filtri . La schermata presenta in formato tabellare i nodi e le categorie presenti nel sistema ed il loro stato di abilitazione. La voce utenze indica il numero totale di utenze correntemente presenti sul portale, mentre la voce limite licenza indica il numero massimo di utenze visualizzabili. . . Facendo click sul bottone abilita modifica verranno abilitate le modifiche e sarà possibile impostare filtri per la visualizzazione delle utenze. . . Facendo click sul bottone continua i filtri verranno abilitati e sarà possibile modificare le impostazioni. . . Facendo click sul bottone salva verranno memorizzate le modifiche ai nodi e alle categorie abilitate. In seguito al salvataggio sarà possibile applicare ulteriori filtri alla singola utenza, abilitando o meno il relativo accesso da portale . Facendo click sul bottone ripristina le modifiche apportate verranno annullate, riportando il sistema allo stato iniziale. .",
+    "url": "http://localhost:4000/amministrazione/sync/filtri",
+    "relUrl": "/amministrazione/sync/filtri"
+  }
+  ,"13": {
+    "title": "Geolocalizzazione",
+    "content": "Geolocalizzazione . La schermata permette di gestire la geolocalizzazione dei supervisor presenti all’interno del sistema. . . La tabella di riepilogo riporta informazioni in merito ai supervisor presenti nel sistema. La colonna Stato indica lo stato di geolocalizzazione; la colonna Supervisors riporta il numero totale di supervisor presenti in Liberoweb; le colonne Geolocalizzati e Non geolocalizzati riportano rispettivamente il numero di supervisor geolocalizzati correttamente ed il numero di supervisor che risultano non geolocalizzati; la colonna Senza città specifica il numero di supervisor non geolocalizzati a causa dell’assenza del valore città nella scheda anagrafica. Nella colonna Azioni sono visualizzate le azioni che è possibile compiere: . Aggiornamento dei geocode: tramite questo comando il sistema procede a geolocalizzare i supervisor privi di geolocalizzazione. | Forza aggiornamento geolocalizzazione: tramite questo comando il sistema procede a geolocalizzare nuovamente tutti i supervisor presenti su Liberoweb. | . . La tabella Supervisor senza città elenca i supervisor il cui campo città non è valorizzato. Per geolocalizzare queste utenze è necessario aggiornarne la relativa scheda anagrafica nel pannello di Libero500. Liberoweb sincronizzerà la modifica e sarà quindi possibile procedere con l’aggiornamento dei geocode. . . La tabella Supervisor senza geolocalizzazione elenca i supervisor non geolocalizzati come conseguenza di errori nella scheda anagrafica quali: . Valore del campo indirizzo nullo o errato. | Valore del campo città errato. | . Per geolocalizzare i supervisor è necessario aggiornarne la scheda anagrafica nel pannello di Libero 500. Liberoweb sincronizzerà la modifica e sarà quindi possibile procedere con l’aggiornamento dei geocode. . . La tabella Indirizzi custom elenca i supervisor con geolocalizzazione custom. Tramite il bottone modifica è possibile modificare le coordinate inserite in precedenza. I valori di geolocalizzazione personalizzati possono essere eliminati tramite il bottone elimina. . .",
+    "url": "http://localhost:4000/amministrazione/sync/geolocalizzazione",
+    "relUrl": "/amministrazione/sync/geolocalizzazione"
+  }
+  ,"14": {
+    "title": "Grafici",
+    "content": "Grafici . La schermata Grafici mostra i grafici configurati per la visualizzazione in Liberoweb. La tabella permette di visualizzare dati relativi ai grafici già impostati: la colonna Titolo riporta il titolo del grafico (visualizzato nella pagina dedicata), la colonna Variabili riporta le variabili che compongono il grafico, infine il valore della colonna Admin indica se il grafico viene visualizzato solamente ad utenze amministrative. . . Tramite gli appositi bottoni è possibile modificare o eliminare i grafici esistenti. Il bottone Aggiungi consente l’accesso alla schermata di creazione di un nuovo grafico. .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/grafici",
+    "relUrl": "/amministrazione/impostazioni/grafici"
+  }
+  ,"15": {
+    "title": "Grafici centrale",
+    "content": "Grafici centrale . Tramite la schermata Grafici centrale è possibile visualizzare, aggiungere, modificare o eliminare i grafici relativi alla centrale di teleriscaldamento. A ciascun grafico vengono assegnati un identificativo, un titolo e una serie configurabile di variabili: . . Per creare un nuovo grafico fate click sul bottone Aggiungi e nella schermata successiva procedere con la configurazione desiderata: . .",
+    "url": "http://localhost:4000/amministrazione/centrale/grafici_centrale.html",
+    "relUrl": "/amministrazione/centrale/grafici_centrale.html"
+  }
+  ,"16": {
+    "title": "Gruppi",
+    "content": "Gruppi . . La tabella Gruppi riporta tutti i gruppi di supervisor definiti in Liberoweb. La colonna Elements mostra il numero di supervisor appartenenti a ciascun gruppo, mentre la colonna Utenti elenca i tipi di utente abilitati per il gruppo di riferimento. . è possibile modificare o eliminare il gruppo di riferimento tramite gli appositi bottoni. Facendo click sul bottone Aggiungi sarà invece possibile procedere alla schermata di creazione di un nuovo gruppo di supervisor. .",
+    "url": "http://localhost:4000/amministrazione/gestione/gruppi",
+    "relUrl": "/amministrazione/gestione/gruppi"
+  }
+  ,"17": {
+    "title": "Importa fatture",
+    "content": "Importa fatture . . La schermata Importa fatture permette l’importazione di documenti di fatturazione relativi a supervisor specifici. Importante: per importare documenti di fatturazione ed attribuirli correttamente ai rispettivi supervisor è necessario che i nomi dei file .PDF corrispondano precisamente al pattern di nomenclatura definito in Liberoweb. . . Tramite il pannello Pattern file è possibile visualizzare il pattern attuale, facendo click sull’icona della rotella si accede alla schermata di impostazione del pattern per poterlo modificare. . Tramite il campo Metodo è possibile selezionare il metodo di importazione delle fatture tra: . Caricamento file: consente di caricare un file direttamente dal computer (dimensione massima consentita 50MB). | File da url esterno: consente di importare il file inserendone l’url pubblico previo caricamento su servizi terzi. | . Il campo file permetterà la selezione ed il caricamento del documento qualora sia stato selezionato il metodo “Caricamento file”. . . Il campo File’s public url sarà invece visibile quando è stato selezionato il metodo “File da url esterno” e permetterà di inserire l’url pubblico da cui importare il file. . .",
+    "url": "http://localhost:4000/amministrazione/gestione/importa-fatture",
+    "relUrl": "/amministrazione/gestione/importa-fatture"
+  }
+  ,"18": {
+    "title": "Impostazioni centrale",
+    "content": "Impostazioni . Tramite la schermata impostazioni è possibile indicare al sistema quale siano il supervisor centrale ed il device centrale: . .",
+    "url": "http://localhost:4000/amministrazione/centrale/impostazioni",
+    "relUrl": "/amministrazione/centrale/impostazioni"
+  }
+  ,"19": {
+    "title": "Gestione",
+    "content": "Gestione .",
+    "url": "http://localhost:4000/amministrazione/gestione",
+    "relUrl": "/amministrazione/gestione"
+  }
+  ,"20": {
+    "title": "Centrale",
+    "content": "Centrale .",
+    "url": "http://localhost:4000/amministrazione/centrale",
+    "relUrl": "/amministrazione/centrale"
+  }
+  ,"21": {
+    "title": "Introduzione",
+    "content": "Liberoweb . Introduzione . LiberoWeb è un componente aggiuntivo del mondo Libero che permette di sincronizzare nel cloud i dati registrati da Libero500 e visualizzarli elaborati in apposite funzioni. . Successivamente alla prima fase di configurazione nella quale verrà impostato il canale di comunicazione e avviata la sincronizzazione dei dati, sarà possibile creare più utenti abilitati all’accesso. . Tramite l’utenza amministrativa di centrale si potranno definire e configurare gli utenti e i loro livelli di accesso: . Utente senza limitazioni con accesso a tutte le utenze del sistema; | Utente con limitazioni su gruppi di utenze; | Utente con accesso a singola utenza. | . All’interno della piattaforma LiberoWeb sarà possibile accedere, a seconda dei moduli attivi, ad una serie di funzionalità: . Mappa: le utenze sono visualizzate su una mappa geografica, con possibilità di effettuare filtri o ricerche sulle utenze e visualizzare gli ultimi valori registrati delle variabili configurate; | Analisi grafica: visualizzazione per singola utenza dei dati delle variabili impostate in formato grafico o tabellare, con la possibilità di impostare la fascia temporale di interesse e la frequenze di visualizzazione del dato; | Analisi tabellare: la funzione permette di visualizzare in formato tabellare i valori di più variabili configurabili associate alle utenze del teleriscaldamento. L’utente ha la possibilità di configurare le variabili richieste e memorizzarle per ricaricare rapidamente la tabella e impostare la fascia temporale di interesse e la frequenze di visualizzazione del dato; | Analisi consumi: visualizzazione per singola utenza dei consumi registrati, con la possibilità di impostare la fascia temporale di interesse e la frequenze di visualizzazione del dato; | Centrale: visualizzazione per l’utenza associata alla centrale di teleriscaldamento delle variabili impostate in formato grafico o tabellare, con la possibilità di impostare la fascia temporale di interesse e la frequenze di visualizzazione del dato; | Info rete teleriscaldamento: la funzione permette di visualizzare alcune informazioni relative alla rete di teleriscaldamento e la visualizzazione di dati in formato grafico o tabellare riguardanti l’intera rete. | Amministrazione: nell’area amministrativa sarà possibile configurare le funzioni attive su LiberoWeb, creare utenti e gruppi e gestire le impostazioni di sistema. | .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  ,"22": {
+    "title": "Sync",
+    "content": "Sync .",
+    "url": "http://localhost:4000/amministrazione/sync",
+    "relUrl": "/amministrazione/sync"
+  }
+  ,"23": {
+    "title": "Amministrazione",
+    "content": "Amministrazione .",
+    "url": "http://localhost:4000/amministrazione/",
+    "relUrl": "/amministrazione/"
+  }
+  ,"24": {
+    "title": "Impostazioni",
+    "content": "Impostazioni .",
+    "url": "http://localhost:4000/amministrazione/impostazioni",
+    "relUrl": "/amministrazione/impostazioni"
+  }
+  ,"25": {
+    "title": "Info rete teleriscaldamento",
+    "content": "Info rete teleriscaldamento . Tramite la funzione Info rete teleriscaldamento sarà possibile visualizzare informazioni riguardanti l’intera rete di teleriscaldamento. Nella prima fascia verranno visualizzate le informazioni riguardanti il numero totale di utenze presenti in LiberoWeb e la potenza totale installata. . . A seguire saranno invece visualizzati i pannelli contenenti i grafici e la fascia per impostare la ricerca. Sarà possibile intervenire sulla fascia di ricerca per modificare il periodo di visualizzazione o la frequenza dei dati. . .",
+    "url": "http://localhost:4000/info-rete-teleriscaldamento/",
+    "relUrl": "/info-rete-teleriscaldamento/"
+  }
+  ,"26": {
+    "title": "Informazioni",
+    "content": "Informazioni . . Al fine di effettuare il ricalcolo dell’energia progressiva consumata è necessario che la tabella summaryreadings sia stata correttamente sincronizzata. . All’interno della schermata Informazioni è possibile impostare l’orario di esecuzione del cron per il calcolo dell’energia progressiva da tabella summaryreadings. Al fine di ottenere informazioni aggiornate è necessario inserire un orario successivo al task di Libero500. .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/informazioni",
+    "relUrl": "/amministrazione/impostazioni/informazioni"
+  }
+  ,"27": {
+    "title": "Licenza",
+    "content": "Licenza . . Tramite le impostazioni di licenza è possibile limitare il numero di supervisors abilitati in LiberoWeb. . I supervisors disabilitati non saranno disponibili nelle varie funzioni del portale ma sarà possibile visualizzarli sulla mappa del teleriscaldamento selezionando la relativa impostazione. Sulla mappa le utenze disabilitate saranno identificate con un marker grigio e non sarà possibile accedere alle rispettive informazioni. . Sarà possibile definire precisamente quali supervisors disabilitare nell’impostazione dei Filtri. .",
+    "url": "http://localhost:4000/amministrazione/centrale/licenza",
+    "relUrl": "/amministrazione/centrale/licenza"
+  }
+  ,"28": {
+    "title": "Mappa",
+    "content": "Mappa . La schermata Mappa permette di configurare le impostazioni relative a mappa, tracciati e variabili. All’interno della tab Impostazioni si trovano le configurazioni relative alla mappa e ai tracciati del teleriscaldamento: . . Il campo Token mapbox ospita il token generato da Mapbox che consente il funzionamento della mappa; il campo TLR Style ospita l’url relativo allo stile del tracciato di teleriscaldamento (questo campo è opzionale); Il campo Visibilità tracciato TLR specifica la tipologia di utente abilitato a vedere il tracciato di teleriscaldamento sulla mappa; il campo Google Geocode API Key ospita la chiave Api relativa al servizio di geolocalizzazione di Google. . All’interno della tab Variabili si trova la tabella che elenca le variabili visualizzate sulla mappa con un marker specifico: . . Le variabili già presenti sono elencate divise per supervisor e device di riferimento e possono essere modificate o eliminate con gli appositi bottoni. Tramite il bottone Aggiungi è possibile inserire una nuova variabile da visualizzare sulla mappa. .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/mappa",
+    "relUrl": "/amministrazione/impostazioni/mappa"
+  }
+  ,"29": {
+    "title": "Mappa",
+    "content": "Mappa . A seguito dell’accesso in piattaforma verrà visualizzata la mappa relativa alla rete di teleriscaldamento e le utenze presenti in LiberoWeb. Verranno visualizzate unicamente le utenze attribuite all’utente loggato: potrà visualizzare tutte le utenze presenti nel sistema o le utenze associate ai propri gruppi oppure la singola utenza associata alla sua login. . . Tramite la funzione Mostra filtri l’utente potrà filtrare le utenze visualizzate sulla mappa aggiungendo un filtro alle categorie o ai nodi, oppure effettuare una ricerca testuale sul nome utenza oppure sull’indirizzo desiderato. . . Cliccando sul nome dell’utenza oppure sul marker della mappa si aprirà un pannello laterale nel quale saranno visualizzati gli ultimi valori relativi alle variabile impostate in visualizzazione. Dal pannello laterale sarà poi possibile accedere direttamente alle funzioni Analisi grafica, Analisi consumi o Fatture per l’utenza selezionata. . . È inoltre possibile configurare un tracciato personalizzato della rete di teleriscaldamento da visualizzare sulla mappa e l’abilitazione di singole variabili per monitorare con più facilità lo stato della rete: . . Posizionando il cursore del mouse sopra i marker informativi si potranno visualizzare i dati relativi alle variabili configurate: . . Se sono presenti delle variabili informative sulla mappa verrà visualizzato anche un apposito bottone Info variabili per accedere ad un pannello riepilogativo dove sono elencate tutte le variabili: . .",
+    "url": "http://localhost:4000/mappa/",
+    "relUrl": "/mappa/"
+  }
+  ,"30": {
+    "title": "Pagina informativa",
+    "content": "Pagina informativa . La pagina informativa permette di visualizzare dati informativi sulla centrale e grafici sugli andamenti dell’energia prodotta e venduta. In questa schermata è possibile abilitare l’accesso alla pagina informativa tramite url, in modo da poter visualizzare l’informativa senza effettuare il login. . .",
+    "url": "http://localhost:4000/amministrazione/centrale/pagina-informativa",
+    "relUrl": "/amministrazione/centrale/pagina-informativa"
+  }
+  ,"31": {
+    "title": "Scarica",
+    "content": "Scarica . . La schermata Scarica consente il download di dati di trend specificando il lasso di tempo e le variabili di interesse tramite gli appositi campi. Nel caso in cui non sia selezionata alcuna variabile verranno scaricati i dati relativi a tutte le variabili. . Una volta specificati periodo di riferimento e variabili desiderate, facendo click sul bottone Scarica il sistema inizierà la procedura di download al ritmo di 3 giorni di trend per processo di cron; è possibile annullare le operazioni di download in corso facendo click sul bottone Ripristina. .",
+    "url": "http://localhost:4000/amministrazione/sync/scarica",
+    "relUrl": "/amministrazione/sync/scarica"
+  }
+  ,"32": {
+    "title": "Stato",
+    "content": "Stato . . Nella schermata dello stato di centrale si potranno visualizzare e modificare informazioni riguardanti la centrale, visualizzare lo stato di connessione al database di Libero500 e recuperare le chiavi di accesso per impostare la sincronizzazione dei dati tramite agent. . Cliccando sull’apposito pulsante Modifica si aprirà una semplice maschera che permetterà la modifica delle informazioni riportate sulla riga. .",
+    "url": "http://localhost:4000/amministrazione/centrale/stato",
+    "relUrl": "/amministrazione/centrale/stato"
+  }
+  ,"33": {
+    "title": "Tabelle",
+    "content": "Tabelle . La tabella riporta informazioni circa lo stato di sincronizzazione delle tabelle da Libero500 a Liberoweb. . . La colonna tabella riporta il nome di riferimento della tabella del database di Libero500; la colonna stato indica se la tabella è stata correttamente sincronizzata; La colonna Data Sync riporta la data dell’ultima sincronizzazione della relativa tabella; La colonna Checksum riporta il checksum della tabella di riferimento, utile per verificare manualmente lo stato di sincronizzazione; Tramite la voce forza sync nella colonna Azioni è possibile forzare la sincronizzazione della tabella, che avrà luogo durante il successivo task di sincronzzazione. .",
+    "url": "http://localhost:4000/amministrazione/sync/tabelle",
+    "relUrl": "/amministrazione/sync/tabelle"
+  }
+  ,"34": {
+    "title": "Utenti",
+    "content": "Utenti . . La tabella riporta tutti gli utenti abilitati all’accesso su Liberoweb. Facendo click sul nome di un utente nella colonna Utenti è possibile accedere al sistema con il profilo utente selezionato. I valori della colonna Stato indicano se l’utente è attivo (semaforo verde) oppure disabilitato (semaforo rosso). La colonna Tipo specifica la tipologia dell’utente tra: . Operativo: ha accesso a tutti i supervisor presenti in Liberoweb | Ospite: ha accesso solo ai supervisor dei gruppi a lui attribuiti | Utente: ha accesso solo al supervisor a lui attribuito | . La colonna Gruppo rappresenta, nel caso di profili di tipo Ospite o Utente, il gruppo a cui l’utente appartiene o i supervisor abilitati. Tramite gli appositi bottoni è possibile modificare o eliminare un utente; per aggiungere un utente occorre invece fare click sul bottone Aggiungi. .",
+    "url": "http://localhost:4000/amministrazione/gestione/utenti",
+    "relUrl": "/amministrazione/gestione/utenti"
+  }
+  ,"35": {
+    "title": "Variabili",
+    "content": "Variabili . La schermata Variabili mostra l’elenco delle variabili abilitate in Liberoweb. . . Per ciascuna variabile vengono mostrati nome e tipo di dispositivo a cui appartiene; nella colonna Visible on the map è possibile specificare se la variabile debba essere mostrata nella tabella di riepilogo dei supervisor sulla mappa. . è possibile eliminare una variabile tramite l’apposito bottone. Se una variabile è impostata come predefinita di Liberoweb non sarà possibile eliminarla. . Per aggiungere una nuova variabile fare click sul bottone +. In cima alla lista di variabili verrà visualizzata la nuova entry, i cui valori saranno direttamente modificabili. . Una volta completato l’inserimento cliccando sul bottone Salva le modifiche apportate verranno memorizzate nel sistema. .",
+    "url": "http://localhost:4000/amministrazione/impostazioni/variabili",
+    "relUrl": "/amministrazione/impostazioni/variabili"
+  }
+  
+}
